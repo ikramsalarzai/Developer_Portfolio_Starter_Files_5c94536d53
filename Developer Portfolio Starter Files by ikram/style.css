@@ -1,0 +1,40 @@
+.bg-dark{
+    background-color: black !important;
+}
+body{
+    background-color: black;
+    font-family: Inter;
+    color: rgb(201, 201, 201);
+}
+
+.nav-link, .nav-item{
+    color: white !important;
+}
+h1,h2,h3,h4,h5,h6,.navbar-brand{
+/* font-family:Prata; */
+color: white;
+}
+
+.col2{
+    /* height: 100vh; */
+}
+
+
+.h1{
+    font-size: 56px !important;
+    font-weight: 400;
+}
+ .h3,.Interested, .row2 h2{
+font-family:Prata;
+
+}
+
+.row2{
+    background-color: rgb(69, 72, 92)
+}
+
+.footer{
+        background-color: rgb(69, 72, 92);
+font-family:Prata;
+
+}
